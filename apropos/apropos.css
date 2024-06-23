@@ -1,0 +1,5 @@
+.banner{
+    background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('img/site/CULTURE\ ACCUEIL/ai-generated-8816655_1920.jpg'), center center fixed no-repeat;
+    background-size: contain;
+    height: 800px;
+}
